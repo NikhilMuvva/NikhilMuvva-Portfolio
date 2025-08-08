@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is my high school portfolio, showcasing my academic work, creative projects, and extracurricular achievements. It reflects my growth, skills, and dedication throughout my school journey.
